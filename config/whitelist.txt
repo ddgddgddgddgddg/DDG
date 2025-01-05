@@ -2,15 +2,7 @@
 # 填写频道名称会直接保留该记录至最终结果，如：CCTV-1,接口地址，只填写接口地址则对所有频道生效，多条记录换行输入。
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
-https://live.fanmingming.cn/tv/m3u/ipv6.m3u
-https://aktv.top/live.txt
-https://2912.kstore.space/520.txt
-http://175.178.251.183:6689/live.txt
-http://8.138.7.223/live.txt
-https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
-http://106.53.99.30/vip.txt
 http://8.138.7.223/v12.txt
-https://live.fanmingming.com/tv/m3u/ipv6.m3u
 翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
