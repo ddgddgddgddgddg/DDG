@@ -3,7 +3,6 @@
 http://106.53.99.30/vip.txt
 http://110.40.61.139:2189/live.php
 http://175.178.251.183:6689/live.txt
-http://175.178.251.183:6689/live.txt
 http://8.138.7.223/live.txt
 http://8.138.7.223/v12.txt
 http://kxrj.site:55/lib/kx2024.txt
@@ -34,7 +33,6 @@ https://m3u.ibert.me/txt/j_iptv.txt
 https://m3u.ibert.me/txt/o_cn.txt
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhumeng11/IPTV/main/IPTV.m3u
 https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
-https://mzjk.top/zb.txt
 https://mzjk.top/zb1.txt
 https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/demo.m3u
 https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlist.m3u8
@@ -47,3 +45,21 @@ nttps://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanzl77/IPTV/main/
 https://ghgo.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt
 https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/source.json
+https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+http://47.120.41.246:8899/zb.txt
+http://xn--ihqu10cn4c.xn--v4q818bf34b.com/UZ/DEMO.json
+http://tvbox.xn--4kq62z5rby2qupq9ub.top/
+http://肥猫.com
+http://www.饭太硬.com/tv/
+http://fty.xxooo.cf/tv
+http://rihou.cc:55
+https://www.yingm.cc/dm/dm.json
+https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json
+http://home.jundie.top:81/top98.json
+https://mzjk.top/zb.txt
+http://xhztv.top/cytx.txt
+http://kkk.jjjj.jiduo.me/user/tttt/api.txt
+http://meowtv.top/zb
+https://pan.vma.cc/down.php/f83b92a24d61858666f13c5db938a292.txt
+https://espntv.us/sub/jkoid
