@@ -38,6 +38,8 @@ https://d.kstore.dev/download/9771/nmg012345678/C20241120.txt
 https://d.kstore.dev/download/9771/nmg012345678/C20241119.txt
 https://d.kstore.dev/download/9771/nmg012345678/C20241118.txt
 #   这是网上找的
+#   来源https://bgithub.xyz/zwc456baby/iptv_alive/tree/master
+https://raw.bgithub.xyz/zwc456baby/iptv_alive/refs/heads/master/live.txt
 http://106.53.99.30/vip.txt
 http://175.178.251.183:6689/live.txt
 http://php.666230.xyz/202501.txt
