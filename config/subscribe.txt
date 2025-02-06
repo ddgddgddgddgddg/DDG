@@ -48,6 +48,14 @@ https://raw.bgithub.xyz/fanmingming/live/refs/heads/main/tv/m3u/index.m3u
 https://raw.bgithub.xyz/ngo5/IPTV/refs/heads/main/m3u/Heilongjiangipv4chinamobilePLTV.txt
 https://raw.bgithub.xyz/ngo5/IPTV/refs/heads/main/m3u/ipv6.m3u
 https://raw.bgithub.xyz/ngo5/IPTV/refs/heads/main/m3u/ipv4.m3u
+#    来源https://bgithub.xyz/Rivens7/Livelist
+https://raw.bgithub.xyz/Rivens7/Livelist/refs/heads/main/IPTV.m3u
+https://raw.bgithub.xyz/Rivens7/Livelist/refs/heads/main/CNTV.m3u
+https://raw.bgithub.xyz/Rivens7/Livelist/refs/heads/main/CCTV.m3u
+#   来源https://bgithub.xyz/Cyril0563/lanjing_live
+https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/IPTV_FREE/M3U%E6%A0%BC%E5%BC%8F%E7%9B%B4%E6%92%AD%E6%BA%90.txt
+https://raw.bgithub.xyz/Cyril0563/lanjing_live/main/IPTV_FREE/live.m3u
+https://raw.bgithub.xyz/Cyril0563/lanjing_live/refs/heads/main/IPTV_FREE/zb.txt
 
 #   这是网上找的
 http://106.53.99.30/vip.txt
