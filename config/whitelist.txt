@@ -27,14 +27,8 @@ TVB,http://qjrhc.jydjd.top:2911/udp/224.1.100.1:11111
 云南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.21:11111
 广东珠江,http://qjrhc.jydjd.top:2911/udp/224.1.100.23:11111
 云南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.22:11111
-CCTV5+,http://qjrhc.jydjd.top:2911/udp/224.1.100.25:11111
 广东珠江,http://qjrhc.jydjd.top:2911/udp/224.1.100.24:11111
-CCTV7,http://qjrhc.jydjd.top:2911/udp/224.1.100.27:11111
-CCTV5+,http://qjrhc.jydjd.top:2911/udp/224.1.100.26:11111
-CCTV9,http://qjrhc.jydjd.top:2911/udp/224.1.100.29:11111
-CCTV7,http://qjrhc.jydjd.top:2911/udp/224.1.100.28:11111
 纪实科教,http://qjrhc.jydjd.top:2911/udp/224.1.100.31:11111
-CCTV9,http://qjrhc.jydjd.top:2911/udp/224.1.100.30:11111
 广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.33:11111
 纪实科教,http://qjrhc.jydjd.top:2911/udp/224.1.100.32:11111
 广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.34:11111
@@ -44,10 +38,6 @@ CCTV9,http://qjrhc.jydjd.top:2911/udp/224.1.100.30:11111
 广州新闻,http://qjrhc.jydjd.top:2911/udp/224.1.100.38:11111
 深圳卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.39:11111
 深圳卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.40:11111
-CCTV15,http://qjrhc.jydjd.top:2911/udp/224.1.100.42:11111
-CCTV15,http://qjrhc.jydjd.top:2911/udp/224.1.100.41:11111
-CCTV11,http://qjrhc.jydjd.top:2911/udp/224.1.100.44:11111
-CCTV11,http://qjrhc.jydjd.top:2911/udp/224.1.100.43:11111
 江苏卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.45:11111
 江苏卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.46:11111
 东方卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.47:11111
@@ -66,38 +56,18 @@ CCTV11,http://qjrhc.jydjd.top:2911/udp/224.1.100.43:11111
 吉林卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.60:11111
 天津卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.61:11111
 天津卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.62:11111
-CCTV3,http://qjrhc.jydjd.top:2911/udp/224.1.100.64:11111
-CCTV3,http://qjrhc.jydjd.top:2911/udp/224.1.100.63:11111
 安徽卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.66:11111
 安徽卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.65:11111
 湖北卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.67:11111
 湖北卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.68:11111
-CCTV13,http://qjrhc.jydjd.top:2911/udp/224.1.100.69:11111
-CCTV13,http://qjrhc.jydjd.top:2911/udp/224.1.100.70:11111
 四川卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.71:11111
 四川卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.72:11111
 河南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.73:11111
 河南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.74:11111
-CCTV10,http://qjrhc.jydjd.top:2911/udp/224.1.100.75:11111
-CCTV10,http://qjrhc.jydjd.top:2911/udp/224.1.100.76:11111
-CCTV12,http://qjrhc.jydjd.top:2911/udp/224.1.100.77:11111
-CCTV12,http://qjrhc.jydjd.top:2911/udp/224.1.100.78:11111
-CCTV14,http://qjrhc.jydjd.top:2911/udp/224.1.100.79:11111
-CCTV14,http://qjrhc.jydjd.top:2911/udp/224.1.100.80:11111
-CCTV5,http://qjrhc.jydjd.top:2911/udp/224.1.100.81:11111
-CCTV5,http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111
-CCTV6,http://qjrhc.jydjd.top:2911/udp/224.1.100.84:11111
-CCTV6,http://qjrhc.jydjd.top:2911/udp/224.1.100.83:11111
-CCTV8,http://qjrhc.jydjd.top:2911/udp/224.1.100.86:11111
-CCTV8,http://qjrhc.jydjd.top:2911/udp/224.1.100.85:11111
 广州影视,http://qjrhc.jydjd.top:2911/udp/224.1.100.87:11111
 广州影视,http://qjrhc.jydjd.top:2911/udp/224.1.100.88:11111
-CCTV1,http://qjrhc.jydjd.top:2911/udp/224.1.100.90:11111
-CCTV1,http://qjrhc.jydjd.top:2911/udp/224.1.100.89:11111
 辽宁卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.91:11111
 辽宁卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.92:11111
-CCTV2,http://qjrhc.jydjd.top:2911/udp/224.1.100.93:11111
-CCTV2,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
 广东卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.95:11111
 广东卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.96:11111
 湖南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.97:11111
@@ -106,8 +76,6 @@ CCTV2,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
 北京卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.100:11111
 重庆卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.101:11111
 重庆卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.102:11111
-CCTV4,http://qjrhc.jydjd.top:2911/udp/224.1.100.103:11111
-CCTV4,http://qjrhc.jydjd.top:2911/udp/224.1.100.104:11111
 广州竞赛,http://qjrhc.jydjd.top:2911/udp/224.1.100.105:11111
 广州竞赛,http://qjrhc.jydjd.top:2911/udp/224.1.100.106:11111
 CETV1,http://qjrhc.jydjd.top:2911/udp/224.1.100.107:11111
@@ -138,7 +106,6 @@ CHC动作电影,http://qjrhc.jydjd.top:2911/udp/224.1.100.131:11111
 CHC动作电影,http://qjrhc.jydjd.top:2911/udp/224.1.100.132:11111
 魅力足球,http://qjrhc.jydjd.top:2911/udp/224.1.100.133:11111
 佛山公共,http://qjrhc.jydjd.top:2911/udp/224.1.100.134:11111
-CCTV17,http://qjrhc.jydjd.top:2911/udp/224.1.100.135:11111
 新视觉,http://qjrhc.jydjd.top:2911/udp/224.1.100.136:11111
 CGTN,http://qjrhc.jydjd.top:2911/udp/224.1.100.137:11111
 中华美食,http://qjrhc.jydjd.top:2911/udp/224.1.100.138:11111
@@ -164,10 +131,6 @@ CHC家庭影院,http://qjrhc.jydjd.top:2911/udp/224.1.100.149:11111
 广东经济科教,http://qjrhc.jydjd.top:2911/udp/224.1.100.158:11111
 中国天气,http://qjrhc.jydjd.top:2911/udp/224.1.100.159:11111
 广东珠江,http://qjrhc.jydjd.top:2911/udp/224.1.100.191:11111
-CCTV2,http://qjrhc.jydjd.top:2911/udp/224.1.100.192:11111
-CCTV5,http://qjrhc.jydjd.top:2911/udp/224.1.100.193:11111
-CCTV6,http://qjrhc.jydjd.top:2911/udp/224.1.100.194:11111
-
 # 不断流！广东湾区地方台，低调使用哦
 原创 睡眼迷离的猫 睡眼迷离的猫https://mp.weixin.qq.com/s/BePxXUt5B8Wdn3Bmox5l-Q
 广东卫视,http://125.90.252.190:4010/udp/239.77.0.2:5146
@@ -269,7 +232,6 @@ CCTV6,http://qjrhc.jydjd.top:2911/udp/224.1.100.194:11111
 宜和购物,http://125.90.252.190:4010/udp/239.77.1.87:5146
 中国天气,http://125.90.252.190:4010/udp/239.77.1.2:5146
 天元围棋,http://125.90.252.190:4010/udp/239.253.43.98:5146
-
 # 广东湾区部分地方直播源
 原创 睡眼迷离的猫 睡眼迷离的猫https://mp.weixin.qq.com/s/h8_g0lLX7WBSC68QYNmA0w
 TVB,http://mzitv.cn:32/tsfile/live/1016_1.m3u8
@@ -362,7 +324,6 @@ TVB,http://119.125.134.176:9901/tsfile/live/1035_1.m3u8
 深圳财经生活http://183.11.239.36:808/hls/151/index.m3u8
 深圳少儿http://183.11.239.36:808/hls/157/index.m3u8
 深圳体育健康http://183.11.239.36:808/hls/158/index.m3u8
-
 # 以下http://so.owo.vin/翡翠台
 TVB,https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 TVB,http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
