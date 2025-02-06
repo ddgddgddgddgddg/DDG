@@ -106,7 +106,15 @@ https://mashaf1.cn/F1.m3u
 https://raw.bgithub.xyz/Supprise0901/TVBox_live/refs/heads/main/live.txt
 #   来源https://bgithub.xyz/YueChan/Live
 https://raw.bgithub.xyz/YueChan/Live/refs/heads/main/APTV.m3u
-#   来源
+#   来源https://bgithub.xyz/kimwang1978/collect-tv-txt?tab=readme-ov-file
+https://raw.bgithub.xyz/kimwang1978/collect-tv-txt/refs/heads/main/%E4%B8%93%E5%8C%BA/4K.txt
+https://raw.bgithub.xyz/kimwang1978/collect-tv-txt/refs/heads/main/%E4%B8%93%E5%8C%BA/AKTV.txt
+https://raw.bgithub.xyz/kimwang1978/collect-tv-txt/refs/heads/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E4%B8%93%E4%BA%AB%E6%BA%90%E2%91%A0.txt
+https://raw.bgithub.xyz/kimwang1978/collect-tv-txt/refs/heads/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E5%8F%B0%E6%B9%BE%E5%8F%B0.txt
+https://raw.bgithub.xyz/kimwang1978/collect-tv-txt/refs/heads/main/%E4%B8%93%E5%8C%BA/%E2%99%AA%E6%B8%AF%E6%BE%B3%E5%8F%B0.txt
+https://raw.bgithub.xyz/kimwang1978/collect-tv-txt/refs/heads/main/live.txt
+https://raw.bgithub.xyz/kimwang1978/collect-tv-txt/refs/heads/main/live_lite.txt
+https://live.iptv365.org/live.txt
 
 #   这是网上找的
 http://106.53.99.30/vip.txt
