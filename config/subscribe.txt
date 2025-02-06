@@ -115,6 +115,12 @@ https://raw.bgithub.xyz/kimwang1978/collect-tv-txt/refs/heads/main/%E4%B8%93%E5%
 https://raw.bgithub.xyz/kimwang1978/collect-tv-txt/refs/heads/main/live.txt
 https://raw.bgithub.xyz/kimwang1978/collect-tv-txt/refs/heads/main/live_lite.txt
 https://live.iptv365.org/live.txt
+#   来源https://bgithub.xyz/vbskycn/iptv/tree/master
+https://live.zbds.top/tv/iptv6.txt
+https://live.zbds.top/tv/iptv4.txt
+https://raw.bgithub.xyz/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
+https://raw.bgithub.xyz/vbskycn/iptv/refs/heads/master/tv/iptv6.txt
+https://raw.bgithub.xyz/vbskycn/iptv/refs/heads/master/tv/hd.txt
 
 #   这是网上找的
 http://106.53.99.30/vip.txt
