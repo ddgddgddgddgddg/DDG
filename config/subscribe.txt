@@ -40,6 +40,14 @@ https://d.kstore.dev/download/9771/nmg012345678/C20241118.txt
 
 #   来源https://bgithub.xyz/zwc456baby/iptv_alive/tree/master
 https://raw.bgithub.xyz/zwc456baby/iptv_alive/refs/heads/master/live.txt
+#    来源https://bgithub.xyz/fanmingming/live/tree/main
+https://raw.bgithub.xyz/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
+https://raw.bgithub.xyz/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u
+https://raw.bgithub.xyz/fanmingming/live/refs/heads/main/tv/m3u/index.m3u
+#   来源https://bgithub.xyz/ngo5/IPTV
+https://raw.bgithub.xyz/ngo5/IPTV/refs/heads/main/m3u/Heilongjiangipv4chinamobilePLTV.txt
+https://raw.bgithub.xyz/ngo5/IPTV/refs/heads/main/m3u/ipv6.m3u
+https://raw.bgithub.xyz/ngo5/IPTV/refs/heads/main/m3u/ipv4.m3u
 
 #   这是网上找的
 http://106.53.99.30/vip.txt
